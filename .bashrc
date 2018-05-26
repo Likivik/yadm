@@ -1,0 +1,1 @@
+/home/likivik/.settings/.bashrc
